@@ -1,0 +1,9 @@
+{
+  "name": "kuru-zoom-clone",
+  "version": "1.0.0",
+  "description": "Zoom Clone using NodeJS, sWebRTC and Websockets.",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
