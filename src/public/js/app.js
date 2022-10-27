@@ -9,7 +9,7 @@ function makeMessage(type, payload) {
 }
 
 function handleOpen() {
-    console.log("Connected to Server ✅");
+    console.log("Connected to Server✅");
 }
 
 function handleMessage(message) {
@@ -19,7 +19,7 @@ function handleMessage(message) {
 }
 
 function handleClose() {
-    console.log("Disconnected from Server ❌");
+    console.log("Disconnected from Server❌");
 }
 
 socket.addEventListener("open", handleOpen);
